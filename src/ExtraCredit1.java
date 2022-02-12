@@ -2,8 +2,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ExtraCredit1 {
+    
+//3 Easy LeetCode solutions
 
-//    LeetCode 88
+//    LeetCode 88 
 //    You are given two integer arrays nums1 and nums2, sorted in non-decreasing order,
 //    and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 //
@@ -46,7 +48,7 @@ public class ExtraCredit1 {
         }
     }
 
-//    LeetCode 905
+//    LeetCode 905 
 //    Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
 //    Return any array that satisfies this condition.
 
